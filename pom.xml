@@ -6,8 +6,8 @@
 
     <groupId>ru.epicserver</groupId>
     <artifactId>ChatNukkit</artifactId>
-    <version>0.1-#AA0005</version>
-    <name>ChatNukkit</name>
+    <version>0.2-testing-#AA0008</version>
+    <name>ChatNukkit-${project.version}</name>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
