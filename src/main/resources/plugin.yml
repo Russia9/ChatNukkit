@@ -1,0 +1,7 @@
+name: ChatNukkit
+version: "${project.version}"
+api: ["1.0.0"]
+author: EpicTeam
+main: ru.epicserver.chatnukkit.ChatNukkit
+Depend: ["LuckPerms", "PlaceholderAPI"]
+Softdepend: []
