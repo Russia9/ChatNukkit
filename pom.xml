@@ -6,7 +6,7 @@
 
     <groupId>ru.epicserver</groupId>
     <artifactId>ChatNukkit</artifactId>
-    <version>0.2-testing-#AA0008</version>
+    <version>0.3-dev-#AA0010</version>
     <name>ChatNukkit-${project.version}</name>
 
     <properties>
