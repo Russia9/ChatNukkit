@@ -6,8 +6,8 @@
 
     <groupId>ru.epicserver</groupId>
     <artifactId>ChatNukkit</artifactId>
-    <version>0.1-#AA0005</version>
-    <name>ChatNukkit</name>
+    <version>0.3-dev-#AA0010</version>
+    <name>ChatNukkit-${project.version}</name>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -34,12 +34,6 @@
             <groupId>me.lucko.luckperms</groupId>
             <artifactId>luckperms-api</artifactId>
             <version>4.3</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.creeperface.nukkit.placeholderapi</groupId>
-            <artifactId>PlaceholderAPI</artifactId>
-            <version>1.0-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
